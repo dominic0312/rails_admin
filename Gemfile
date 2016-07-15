@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://ruby.taobao.org/'
 
 case ENV['RAILS_VERSION']
 when '4.0'
